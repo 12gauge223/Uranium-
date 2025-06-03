@@ -6,8 +6,8 @@ id: 5
 label: URAN
 longName: 'uranium '
 name: 'Uranium '
-penaltyLength: 4
-penaltyLowerBound: 4
+penaltyLength: 0
+penaltyLowerBound: 0
 price: 7196
 sprite:
   filename: cargoes/uranium.png
